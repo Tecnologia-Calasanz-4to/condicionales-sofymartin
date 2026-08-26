@@ -1,0 +1,6 @@
+#es un bucle donde se escriben los numeros pares del 1 al 10. aura
+for x in range (0,11,2):
+  print (x)
+
+for x in range (0,10)
+  print (x)
